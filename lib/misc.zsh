@@ -33,3 +33,5 @@ fi
 
 # recognize comments
 setopt interactivecomments
+
+alias be='bundle exec'
